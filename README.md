@@ -1,7 +1,12 @@
 # Task Manager API Documentation
 
 This is a simple RESTful API for managing tasks. It supports basic CRUD operations (Create, Read, Update, Delete).
-
+## Command line for the start.
+  - npm install
+  - npm run dev
+  -   or
+  - npm start
+    
 ## Endpoints
 
 ### Create a Task
@@ -59,9 +64,9 @@ This is a simple RESTful API for managing tasks. It supports basic CRUD operatio
     "tag": "tag name"
   }
 
-# Task Manager API Documentation
+# Simple User Register and Login API Documentation
 
-This is a simple RESTful API for managing user authentication. It supports basic and login register with jwt token
+This is a simple RESTful API for managing user authentication. It supports basic login and register with jwt token
 
 
 ## Endpoints
