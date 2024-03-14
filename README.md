@@ -68,7 +68,7 @@ This is a simple RESTful API for managing user authentication. It supports basic
 
 ### user register
 
-- URL: `/api/v1//register`
+- URL: `/api/v1/register`
 - Method: `POST`
 - Request Body:
   ```json
@@ -77,9 +77,9 @@ This is a simple RESTful API for managing user authentication. It supports basic
     "email": "email",
     "password": "password"
   }
-  ### user register
+  ### user login
 
-- URL: `/api/v1//login`
+- URL: `/api/v1/login`
 - Method: `POST`
 - Request Body:
   ```json
